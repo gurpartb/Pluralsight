@@ -1,0 +1,4 @@
+# C# csharp Csharp VS Code .gitignore
+gradebook/.vscode
+gradebook/src/GradeBook/bin
+gradebook/src/GradeBook/obj
