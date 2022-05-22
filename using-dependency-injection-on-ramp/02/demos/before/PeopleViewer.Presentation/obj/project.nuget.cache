@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "scWSDso1Q1EsI/agkRyWxcbpaH6SigIoZQIq7P3R5FXXX6nWqf9cpjAInHRmiCuSKhmiIRy82bd2WsQea0JE/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gbhatti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gbhatti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\gbhatti\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,316 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Newtonsoft.Json/12.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "PeopleViewer.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        }
+      },
+      "PeopleViewer.Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PersonDataReader.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        }
+      },
+      "PersonDataReader.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "PeopleViewer.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Newtonsoft.Json/12.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "PeopleViewer.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        }
+      },
+      "PeopleViewer.Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PersonDataReader.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        }
+      },
+      "PersonDataReader.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "PeopleViewer.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Newtonsoft.Json/12.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "PeopleViewer.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        }
+      },
+      "PeopleViewer.Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PersonDataReader.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        }
+      },
+      "PersonDataReader.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "PeopleViewer.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Newtonsoft.Json/12.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "PeopleViewer.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Common.dll": {}
+        }
+      },
+      "PeopleViewer.Presentation/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PersonDataReader.Service": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        }
+      },
+      "PersonDataReader.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1",
+          "PeopleViewer.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonDataReader.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/12.0.1": {
+      "sha512": "pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.pdb",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.pdb",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.pdb",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.pdb",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.pdb",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.pdb",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.pdb",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.pdb",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.pdb",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "PeopleViewer.Common/1.0.0": {
+      "type": "project",
+      "path": "../PeopleViewer.Common/PeopleViewer.Common.csproj",
+      "msbuildProject": "../PeopleViewer.Common/PeopleViewer.Common.csproj"
+    },
+    "PeopleViewer.Presentation/1.0.0": {
+      "type": "project",
+      "path": "../PeopleViewer.Presentation/PeopleViewer.Presentation.csproj",
+      "msbuildProject": "../PeopleViewer.Presentation/PeopleViewer.Presentation.csproj"
+    },
+    "PersonDataReader.Service/1.0.0": {
+      "type": "project",
+      "path": "../PersonDataReader.Service/PersonDataReader.Service.csproj",
+      "msbuildProject": "../PersonDataReader.Service/PersonDataReader.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "PeopleViewer.Common >= 1.0.0",
+      "PeopleViewer.Presentation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gbhatti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer\\PeopleViewer.csproj",
+      "projectName": "PeopleViewer",
+      "projectPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer\\PeopleViewer.csproj",
+      "packagesPath": "C:\\Users\\gbhatti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\gbhatti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Navitaire/_packaging/artifacts/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Common\\PeopleViewer.Common.csproj": {
+              "projectPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Common\\PeopleViewer.Common.csproj"
+            },
+            "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj": {
+              "projectPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
