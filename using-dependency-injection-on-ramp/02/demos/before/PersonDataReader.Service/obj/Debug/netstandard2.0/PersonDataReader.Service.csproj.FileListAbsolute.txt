@@ -1,0 +1,13 @@
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\bin\Debug\netstandard2.0\PersonDataReader.Service.deps.json
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\bin\Debug\netstandard2.0\PersonDataReader.Service.dll
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\bin\Debug\netstandard2.0\PersonDataReader.Service.pdb
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.csproj.AssemblyReference.cache
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.AssemblyInfoInputs.cache
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.AssemblyInfo.cs
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.csproj.CoreCompileInputs.cache
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.csproj.CopyComplete
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.dll
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.pdb

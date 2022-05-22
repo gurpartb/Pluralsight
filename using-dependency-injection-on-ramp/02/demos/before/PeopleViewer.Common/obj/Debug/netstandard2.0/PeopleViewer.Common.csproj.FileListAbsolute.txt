@@ -1,0 +1,10 @@
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.deps.json
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csproj.AssemblyReference.cache
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfoInputs.cache
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfo.cs
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csproj.CoreCompileInputs.cache
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\gbhatti\github\Pluralsight\using-dependency-injection-on-ramp\02\demos\before\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.pdb
