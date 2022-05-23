@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jPXXZweSq6CCBu0zaxZ0XlEkslKmgM9GDWz0z1Jmrs7GJnGEBwoEb9q8Aqg45y8KwVDIydOIEWRCyV0ecbDcTg==",
+  "dgSpecHash": "4Cw++TkcStefNs+7bC+pEdzwi/BCD7hpjSAGax4wAAGALunTHOkWdtybdIEBe/dzDxvChysOPHCLQBSlRsA+qQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PersonDataReader.Service\\PersonDataReader.Service.csproj",
   "expectedPackageFiles": [

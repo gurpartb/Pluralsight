@@ -35,6 +35,19 @@
           "bin/placeholder/PeopleViewer.Presentation.dll": {}
         }
       },
+      "PeopleViewer.View/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PeopleViewer.Presentation": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
+        }
+      },
       "PersonDataReader.Service/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -82,6 +95,19 @@
         },
         "runtime": {
           "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        }
+      },
+      "PeopleViewer.View/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PeopleViewer.Presentation": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
         }
       },
       "PersonDataReader.Service/1.0.0": {
@@ -133,6 +159,19 @@
           "bin/placeholder/PeopleViewer.Presentation.dll": {}
         }
       },
+      "PeopleViewer.View/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PeopleViewer.Presentation": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
+        }
+      },
       "PersonDataReader.Service/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -180,6 +219,19 @@
         },
         "runtime": {
           "bin/placeholder/PeopleViewer.Presentation.dll": {}
+        }
+      },
+      "PeopleViewer.View/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "PeopleViewer.Common": "1.0.0",
+          "PeopleViewer.Presentation": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleViewer.View.dll": {}
         }
       },
       "PersonDataReader.Service/1.0.0": {
@@ -248,6 +300,11 @@
       "path": "../PeopleViewer.Presentation/PeopleViewer.Presentation.csproj",
       "msbuildProject": "../PeopleViewer.Presentation/PeopleViewer.Presentation.csproj"
     },
+    "PeopleViewer.View/1.0.0": {
+      "type": "project",
+      "path": "../PeopleViewer.View/PeopleViewer.View.csproj",
+      "msbuildProject": "../PeopleViewer.View/PeopleViewer.View.csproj"
+    },
     "PersonDataReader.Service/1.0.0": {
       "type": "project",
       "path": "../PersonDataReader.Service/PersonDataReader.Service.csproj",
@@ -257,7 +314,9 @@
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "PeopleViewer.Common >= 1.0.0",
-      "PeopleViewer.Presentation >= 1.0.0"
+      "PeopleViewer.Presentation >= 1.0.0",
+      "PeopleViewer.View >= 1.0.0",
+      "PersonDataReader.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -293,6 +352,12 @@
             },
             "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj": {
               "projectPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Presentation\\PeopleViewer.Presentation.csproj"
+            },
+            "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.View\\PeopleViewer.View.csproj": {
+              "projectPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.View\\PeopleViewer.View.csproj"
+            },
+            "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PersonDataReader.Service\\PersonDataReader.Service.csproj": {
+              "projectPath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PersonDataReader.Service\\PersonDataReader.Service.csproj"
             }
           }
         }

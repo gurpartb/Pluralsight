@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qY79NOxBQ+Huvh+e18Eddz2IJaDLy26IE0T17zzls8MjamlnlJLevhvIt0WpZVzbxXecKH04URR+6ibdmT2NjA==",
+  "dgSpecHash": "WMWZh0Cqu5nXbcb/iO3kPlsg1n/vBr9e6F07EkbAfgFPsj0X9WHSgI3MGX3e+NrIXTL/m9wxtPKbGqoRD8tH0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\PeopleViewer.Common\\PeopleViewer.Common.csproj",
   "expectedPackageFiles": [

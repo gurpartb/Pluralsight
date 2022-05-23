@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dRAtr2+Ma76taSCzNY+xy2Dd/0uxfGYNQHGP8tZxw9z5fep33NErTiXNDkLnpTV3ySa56G5TNn5vE6KxGHEHtw==",
+  "dgSpecHash": "e2PtCuRQmnWUxW/ne19QSKyYb4HkqOvbbQQrND60el4tb6INA2IoOuyECffCsb8Qi1L708mO255eV/CZnm7ozQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gbhatti\\github\\Pluralsight\\using-dependency-injection-on-ramp\\02\\demos\\before\\People.Service\\People.Service.csproj",
   "expectedPackageFiles": [
